@@ -1,0 +1,4 @@
+member=Aino
+Mechanical Engineering; 10 December 2026; 1 pm
+Robotics; 2 March 2027; 9 am
+Physics for Beginners; -; 1 pm
