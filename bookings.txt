@@ -1,0 +1,4 @@
+member=Alice
+Python Basics; 18 November 2026; 2 pm
+Java Programming; 20 November 2026; 10 am
+Web Development; 22 November 2026; 1 pm
